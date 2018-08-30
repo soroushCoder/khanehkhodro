@@ -8,9 +8,10 @@
             </xpath>
         </template>
         <template id="ecommerce_home" inherit_id="website.homepage" name="ecommerce home page">
-            <xpath expr="//div[@id='wrap']" position="replace">
+            <xpath expr="//div[@id='wrap']" position="before">
+
                 <section class="first-search" style="    border-bottom: 1px solid #eee;">
-                    <div class="container" style="direction:rtl;text-align: right;">
+                    <div class="container-khaneh" style="direction:rtl;text-align: right;">
 
 
                         <ul class="nav nav-tabs">
@@ -62,7 +63,7 @@
                                     </div>
                                     <div class="form-group">
                                         <div class="col-md-offset-3 col-sm-offset-4 col-sm-8 col-md-7">
-                                            <span class="btn btn-lg btn-primary o_website_form_send">جستجو</span>
+                                            <span class="btn btn-primary ">جستجو</span>
                                             <span id="o_website_form_result" class="text-danger ml8"></span>
                                         </div>
                                     </div>
@@ -99,7 +100,7 @@
                                     </div>
                                     <div class="form-group">
                                         <div class="col-md-offset-3 col-sm-offset-4 col-sm-8 col-md-7">
-                                            <span class="btn btn-lg btn-primary o_website_form_send">سفارش خرید برای
+                                            <span class="btn  btn-primary ">سفارش خرید برای
                                                 خودرو
 
                                             </span>
@@ -113,7 +114,7 @@
                 </section>
 
                 <section class="promo value-prop carmax">
-                    <div class="content">
+                    <div class="content container-khaneh">
                         <h2 data-prop="header">چرا از ما خرید کنید ؟</h2>
                         <p class="accent"></p>
                         <div data-js="Tabs">
@@ -250,7 +251,7 @@
 
 
                 <section class="s_text_block bg-beta" style="">
-                    <div class="container">
+                    <div class="container-khaneh">
                         <div class="row">
                             <div class="col-md-12 mb16 mt16">
                                 <p style="text-align: center;">
@@ -263,7 +264,7 @@
                     </div>
                 </section>
                 <section class="s_three_columns">
-                    <div class="container">
+                    <div class="container-khaneh">
                         <div class="row">
                             <div class="col-md-4 mt32 mb48">
                                 <img class="img img-responsive" src="/web/image/website.library_image_11"
@@ -299,7 +300,7 @@
                     </div>
                 </section>
                 <section class="s_references bg-gray-lighter">
-                    <div class="container">
+                    <div class="container-khaneh">
                         <div class="row">
                             <div class="col-md-2 col-sm-3 col-xs-6 mt16 mb16">
                                 <img src="/web/image/702" class="img img-responsive " alt="Demo Logo"
