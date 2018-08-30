@@ -9,12 +9,11 @@
         </template>
         <template id="ecommerce_home" inherit_id="website.homepage" name="ecommerce home page">
             <xpath expr="//div[@id='wrap']" position="replace">
-                <section class="first-search">
+                <section class="first-search" style="background-color:#eee">
                     <div class="container" style="direction:rtl;text-align: right;">
-                        <h2>Dynamic Tabs</h2>
-                        <p>To make the tabs toggleable, add the data-toggle="tab" attribute to each link. Then add a
-                            .tab-pane class with a unique ID for every tab and wrap them inside a div element with class
-                            .tab-content.
+                        <h2>خانه خودرو</h2>
+                        <p>
+                            آیا به دنبال خرید ...
                         </p>
 
                         <ul class="nav nav-tabs">
