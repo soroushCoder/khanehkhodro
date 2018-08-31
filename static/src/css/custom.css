@@ -291,3 +291,11 @@ footer ,footer li ,footer a ,footer .text-muted {
     background-color: #666;
     color: white!important;
 }
+.container-khaneh img{
+
+    height: 125px;
+    vertical-align: middle;
+}
+.container-khaneh{
+    height: 160px;
+}

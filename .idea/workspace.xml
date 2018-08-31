@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c904cafb-86a3-4de8-9226-d017673c78fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/static/src/css/custom.css" afterPath="$PROJECT_DIR$/static/src/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/views/templates.xml" afterPath="$PROJECT_DIR$/views/templates.xml" />
+      <change beforePath="$PROJECT_DIR$/static/src/img/brand/Geely.png" afterPath="$PROJECT_DIR$/static/src/img/brand/Geely.png" />
+      <change beforePath="$PROJECT_DIR$/static/src/img/brand/Hyundai.png" afterPath="$PROJECT_DIR$/static/src/img/brand/Hyundai.png" />
+      <change beforePath="$PROJECT_DIR$/static/src/img/brand/Kia.png" afterPath="$PROJECT_DIR$/static/src/img/brand/Kia.png" />
+      <change beforePath="$PROJECT_DIR$/static/src/img/brand/Renault.png" afterPath="$PROJECT_DIR$/static/src/img/brand/Renault.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/templates.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -46,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="284" column="0" lean-forward="false" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
+            <state relative-caret-position="529">
+              <caret line="299" column="17" lean-forward="false" selection-start-line="299" selection-start-column="17" selection-end-line="299" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -86,6 +88,7 @@
       <find>.nav-tabs &gt; li.active &gt; a, .nav-tabs &gt; li.active &gt; a:hover, .nav-tabs &gt; li.active &gt; a:focus</find>
       <find>custom</find>
       <find>.value-prop--promos svg</find>
+      <find>/web/image/701</find>
     </findStrings>
     <replaceStrings>
       <replace>col-md-4</replace>
@@ -98,8 +101,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/__manifest__.py" />
-        <option value="$PROJECT_DIR$/static/src/css/custom.css" />
         <option value="$PROJECT_DIR$/views/templates.xml" />
+        <option value="$PROJECT_DIR$/static/src/css/custom.css" />
       </list>
     </option>
   </component>
@@ -224,12 +227,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535459973807</updated>
       <workItem from="1535459974939" duration="20367000" />
-      <workItem from="1535694256461" duration="4363000" />
+      <workItem from="1535694256461" duration="5165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24730000" />
+    <option name="totallyTimeSpent" value="25532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="868" extended-state="6" />
@@ -303,14 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="284" column="0" lean-forward="false" selection-start-line="284" selection-start-column="0" selection-end-line="284" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/templates.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -321,6 +316,14 @@
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="299" column="17" lean-forward="false" selection-start-line="299" selection-start-column="17" selection-end-line="299" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
