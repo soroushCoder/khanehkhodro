@@ -2,7 +2,7 @@
     <data>
         <template id="ecommerce_assets" inherit_id="website.assets_frontend" name="ecommerce Assets">
             <xpath expr="." position="inside">
-                <link rel="stylesheet" type="text/css" href="/artarad_khanehkhodro_theme/static/src/css/custom.css"/>
+                <link rel="stylesheet" type="text/css"  href="/artarad_khanehkhodro_theme/static/src/css/custom.css"/>
 
 
             </xpath>
@@ -235,8 +235,8 @@
 
 
                                             <a href="/contact-us/schedule/appraisal?op=HP_SellTab_Appraisal"
-                                               class="btn " data-prop="ctaLink" title="Schedule an Appraisal">
-                                                Schedule an Appraisal
+                                               class="btn " data-prop="ctaLink" title="خرید">
+                                              خرید
                                             </a>
                                         </div>
                                     </div>
@@ -251,7 +251,7 @@
 
 
                 <section class="s_text_block bg-beta" style="">
-                    <div class="container-khaneh">
+                    <div class="container-khaneh khaneh_adv">
                         <div class="row">
                             <div class="col-md-12 mb16 mt16">
                                 <p style="text-align: center;">
@@ -303,23 +303,23 @@
                     <div class="container-khaneh">
                         <div class="row">
                             <div class="col-md-2 col-sm-3 col-xs-6 mt16 mb16">
-                                <img src="/web/image/702" class="img img-responsive " alt="Demo Logo"
+                                <img src="/artarad_khanehkhodro_theme/static/src/img/brand/Renault.png" class="img img-responsive " alt="Demo Logo"
                                      data-original-title="" title=""/>
                             </div>
                             <div class="col-md-2 col-sm-3 col-xs-6 mt16 mb16">
-                                <img src="/web/image/701" class="img img-responsive " alt="Demo Logo"
+                                <img src="/artarad_khanehkhodro_theme/static/src/img/brand/Chery.png" class="img img-responsive " alt="Demo Logo"
                                      data-original-title="" title=""/>
                             </div>
                             <div class="col-md-2 col-sm-3 col-xs-6 mt16 mb16">
-                                <img src="/web/image/700" class="img img-responsive " alt="Demo Logo"
+                                <img src="/artarad_khanehkhodro_theme/static/src/img/brand/Geely.png" class="img img-responsive " alt="Demo Logo"
                                      data-original-title="" title=""/>
                             </div>
                             <div class="col-md-2 col-sm-3 col-xs-6 mt16 mb48">
-                                <img src="/web/image/699" class="img img-responsive " alt="Demo Logo"
+                                <img src="/artarad_khanehkhodro_theme/static/src/img/brand/Hyundai.png" class="img img-responsive " alt="Demo Logo"
                                      data-original-title="" title=""/>
                             </div>
                             <div class="col-md-2 col-sm-3 col-xs-6 mt16 mb64">
-                                <img src="/web/image/698" class="img img-responsive " alt="Demo Logo"
+                                <img src="/artarad_khanehkhodro_theme/static/src/img/brand/Kia.png" class="img img-responsive " alt="Demo Logo"
                                      data-original-title="" title=""/>
                             </div>
                             <div class="col-md-2 mt48">
