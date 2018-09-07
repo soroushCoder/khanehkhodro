@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: "B Yekan", "yekan", Tahoma;
+    font-family: "B Yekan", "yekan", Tahoma ;
     text-align: right;
     direction: rtl;
 }
@@ -369,4 +369,41 @@ footer, footer li, footer a, footer .text-muted {
         height: 160px;
     }
 
+}
+
+
+
+.oe_product{
+    border:none;
+}
+.oe_product_cart h5 {
+
+    text-align: Center;
+
+}
+.oe_product_cart h5 a{
+    color: #1e3046;
+    font-size: 16px;
+    font-family: 'Rozha One', serif;
+}
+.oe_product .oe_product_image img{
+    background-color:#ececec!important;
+}
+.product_price .oe_currency_value{
+    color:#1e3046;
+    text-align: center;
+}
+.oe_product .product_price{
+    width: 100%;
+    text-align: center;
+    color:#1e3046;
+}
+.oe_product .product_price{
+    position: inherit !important;
+}
+.s_comparisons .panel-heading{
+    height: inherit!important;
+}
+.s_comparisons .list-group{
+    padding: 0;
 }
