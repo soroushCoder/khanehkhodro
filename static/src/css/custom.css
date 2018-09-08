@@ -196,9 +196,7 @@ svg:not(:root) {
     box-shadow: 0px 1px 0px #bc162c;
 }
 
-.first-search {
-    padding-top: 20px;
-}
+
 
 .carmax .btn:before {
     position: absolute;
@@ -346,6 +344,7 @@ footer, footer li, footer a, footer .text-muted {
 
 .container-khaneh .nav-tabs a {
     color: rgb(108, 112, 114) !important;
+    font-weight: bold;
 }
 
 .text-left {
@@ -362,7 +361,8 @@ footer, footer li, footer a, footer .text-muted {
 
 @media only screen and (min-width: 900px) {
     .container-khaneh {
-        padding: 0 10%;
+        margin: 0 10%;
+        padding: 3px;
     }
 
     .brand-img {
@@ -406,4 +406,26 @@ footer, footer li, footer a, footer .text-muted {
 }
 .s_comparisons .list-group{
     padding: 0;
+}
+
+.vehicle{
+background-image:url("../img/background/vehicle.jpeg") ;
+    background-repeat: no-repeat;
+}
+.vehiclePart{
+    background-image:url("../img/background/vehicle-part.jpeg") ;
+    background-repeat: no-repeat;
+}
+.search-container {
+    background-color: rgba(242, 242, 242, .85);
+}
+.first-search {
+    padding-top: 4%;
+    height: 500px;
+    background-size: cover;
+}
+.search-container .nav-tabs>li.active>a {
+    border-top: 1px solid #bc162c;
+    border-left: 1px solid #bc162c;
+    border-right: 1px solid #bc162c;
 }

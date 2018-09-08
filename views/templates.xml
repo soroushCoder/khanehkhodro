@@ -10,21 +10,21 @@
         <template id="ecommerce_home" inherit_id="website.homepage" name="ecommerce home page">
             <xpath expr="//div[@id='wrap']" position="before">
 
-                <section class="first-search" style="    border-bottom: 1px solid #eee;">
-                    <div class="container-khaneh" style="direction:rtl;text-align: right;">
+                <section class="first-search vehiclePart" id="first-search" style="border-bottom: 1px solid #eee;">
+                    <div class="container-khaneh search-container" style="direction:rtl;text-align: right;">
 
 
                         <ul class="nav nav-tabs">
                             <li class="active">
-                                <a data-toggle="tab" href="#home">قطعه</a>
+                                <a data-toggle="tab" id="topTab1" href="#vehiclePart">قطعه</a>
                             </li>
                             <li>
-                                <a data-toggle="tab" href="#menu1">خودرو</a>
+                                <a data-toggle="tab" id="topTab2" href="#vehicle">خودرو</a>
                             </li>
                         </ul>
 
                         <div class="tab-content">
-                            <div id="home" class="tab-pane fade in active">
+                            <div id="vehiclePart" class="tab-pane fade in active">
 
 
                                 <form method="get" action="/part/shop"
@@ -69,12 +69,11 @@
                                     </div>
                                 </form>
                             </div>
-                            <div id="menu1" class="tab-pane fade">
+                            <div id="vehicle" class="tab-pane fade">
 
                                 <form action="/vehicle/shop" method="get"
                                       class="s_website_form form-horizontal container-fluid mt32"
-                                      enctype="multipart/form-data"
-                                >
+                                      enctype="multipart/form-data" >
                                     <div class="form-group form-field o_website_form_custom">
 
                                         <div class="col-md-7 col-sm-8">
@@ -124,10 +123,10 @@
 
                             <ul class="nav nav-tabs">
                                 <li class="active">
-                                    <a data-toggle="tab" href="#tab1">خرید و فروش قطعات یدکی</a>
+                                    <a data-toggle="tab" href="#tab1" id="tabRef1">خرید و فروش قطعات یدکی</a>
                                 </li>
                                 <li>
-                                    <a data-toggle="tab" href="#tab2">خرید و فروش خودرو</a>
+                                    <a data-toggle="tab" href="#tab2" id="tabRef2">خرید و فروش خودرو</a>
                                 </li>
                             </ul>
 
@@ -423,7 +422,20 @@ text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">
                         </div>
                     </div>
                 </section>
+<script>
+    $('#topTab2').on('click',function(){
 
+        $('#first-search').removeClass('vehiclePart');
+        $('#first-search').addClass('vehicle');
+    $('#tabRef2').click();
+    })
+    $('#topTab1').on('click',function(){
+
+        $('#first-search').addClass('vehiclePart');
+        $('#first-search').removeClass('vehicle');
+    $('#tabRef1').click();
+    })
+</script>
             </xpath>
         </template>
         <template id="khaneh_layout_footer_copyright" inherit_id="website.layout_footer_copyright">
