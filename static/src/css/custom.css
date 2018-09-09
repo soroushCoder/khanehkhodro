@@ -432,3 +432,8 @@ background-image:url("../img/background/vehicle.jpeg") ;
 .bg-beta{
     background-color: #bc162c;
 }
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+}
