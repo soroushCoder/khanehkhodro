@@ -30,31 +30,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/templates.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="269" column="45" lean-forward="false" selection-start-line="269" selection-start-column="45" selection-end-line="269" selection-end-column="45" />
+            <state relative-caret-position="180">
+              <caret line="342" column="52" lean-forward="false" selection-start-line="342" selection-start-column="52" selection-end-line="342" selection-end-column="52" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
                 <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-                <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-                <element signature="n#section#4;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-                <element signature="n#section#5;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
                 <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="438" column="1" lean-forward="false" selection-start-line="438" selection-start-column="1" selection-end-line="438" selection-end-column="1" />
+            <state relative-caret-position="501">
+              <caret line="447" column="32" lean-forward="false" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -64,8 +61,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>btn btn-lg btn-primary o_website_form_send</find>
-      <find>an</find>
       <find>محل</find>
       <find>.btn-primary</find>
       <find>.nav-tabs &gt; li.active &gt; a, .nav-tabs &gt; li.active &gt; a:hover, .nav-tabs &gt; li.active &gt; a:focus</find>
@@ -94,6 +89,8 @@
       <find>.container-khaneh</find>
       <find>foote</find>
       <find>text-detail</find>
+      <find>style=&quot;text-align: center;&quot;</find>
+      <find>title-border</find>
     </findStrings>
     <replaceStrings>
       <replace>col-md-4</replace>
@@ -106,8 +103,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/__manifest__.py" />
-        <option value="$PROJECT_DIR$/static/src/css/custom.css" />
         <option value="$PROJECT_DIR$/views/templates.xml" />
+        <option value="$PROJECT_DIR$/static/src/css/custom.css" />
       </list>
     </option>
   </component>
@@ -206,12 +203,12 @@
       <workItem from="1535694256461" duration="10166000" />
       <workItem from="1536298137457" duration="6651000" />
       <workItem from="1536390514462" duration="3260000" />
-      <workItem from="1536469531374" duration="4476000" />
+      <workItem from="1536469531374" duration="6108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44920000" />
+    <option name="totallyTimeSpent" value="46552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="868" extended-state="6" />
@@ -266,9 +263,6 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -308,9 +302,6 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -342,9 +333,6 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -368,9 +356,6 @@
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -397,29 +382,26 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="438" column="1" lean-forward="false" selection-start-line="438" selection-start-column="1" selection-end-line="438" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/templates.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="269" column="45" lean-forward="false" selection-start-line="269" selection-start-column="45" selection-end-line="269" selection-end-column="45" />
+        <state relative-caret-position="180">
+          <caret line="342" column="52" lean-forward="false" selection-start-line="342" selection-start-column="52" selection-end-line="342" selection-end-column="52" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#3;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#4;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
-            <element signature="n#section#5;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="447" column="32" lean-forward="false" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

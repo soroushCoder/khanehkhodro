@@ -437,3 +437,13 @@ hr {
     border-top: 1px solid #eee;
     margin: 20px 0;
 }
+
+.title-border span{
+    border-bottom: 1px solid #999;
+}
+.title-border{
+    margin-top: 10px;
+}
+.mt16{
+    margin-top: 20px !important;
+}
