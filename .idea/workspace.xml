@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c904cafb-86a3-4de8-9226-d017673c78fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/static/src/css/custom.css" afterPath="$PROJECT_DIR$/static/src/css/custom.css" />
       <change beforePath="$PROJECT_DIR$/views/templates.xml" afterPath="$PROJECT_DIR$/views/templates.xml" />
     </list>
@@ -30,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="templates.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/templates.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="342" column="52" lean-forward="false" selection-start-line="342" selection-start-column="52" selection-end-line="342" selection-end-column="52" />
+            <state relative-caret-position="288">
+              <caret line="552" column="74" lean-forward="false" selection-start-line="552" selection-start-column="74" selection-end-line="552" selection-end-column="74" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
@@ -47,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="447" column="32" lean-forward="false" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="425" column="57" lean-forward="false" selection-start-line="425" selection-start-column="57" selection-end-line="425" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -85,12 +86,12 @@
       <find>menu1</find>
       <find>background-image</find>
       <find>tab1</find>
-      <find>.first-search</find>
       <find>.container-khaneh</find>
       <find>foote</find>
       <find>text-detail</find>
       <find>style=&quot;text-align: center;&quot;</find>
       <find>title-border</find>
+      <find>.first-search</find>
     </findStrings>
     <replaceStrings>
       <replace>col-md-4</replace>
@@ -103,8 +104,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/__manifest__.py" />
-        <option value="$PROJECT_DIR$/views/templates.xml" />
         <option value="$PROJECT_DIR$/static/src/css/custom.css" />
+        <option value="$PROJECT_DIR$/views/templates.xml" />
       </list>
     </option>
   </component>
@@ -136,8 +137,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,28 +204,29 @@
       <workItem from="1535694256461" duration="10166000" />
       <workItem from="1536298137457" duration="6651000" />
       <workItem from="1536390514462" duration="3260000" />
-      <workItem from="1536469531374" duration="6108000" />
+      <workItem from="1536469531374" duration="6702000" />
+      <workItem from="1537338598429" duration="1315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46552000" />
+    <option name="totallyTimeSpent" value="48461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="868" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22438392" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22827497" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -245,6 +247,37 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/templates.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3759">
+          <caret line="342" column="52" lean-forward="false" selection-start-line="342" selection-start-column="52" selection-end-line="342" selection-end-column="52" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
+            <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9387">
+          <caret line="447" column="32" lean-forward="false" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/__manifest__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -382,10 +415,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="425" column="57" lean-forward="false" selection-start-line="425" selection-start-column="57" selection-end-line="425" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/templates.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="342" column="52" lean-forward="false" selection-start-line="342" selection-start-column="52" selection-end-line="342" selection-end-column="52" />
+        <state relative-caret-position="288">
+          <caret line="552" column="74" lean-forward="false" selection-start-line="552" selection-start-column="74" selection-end-line="552" selection-end-column="74" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
@@ -394,14 +435,6 @@
             <element signature="n#section#2;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
             <element signature="n#section#6;n#xpath#0;n#template#1;n#data#0;n#odoo#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/src/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="447" column="32" lean-forward="false" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>

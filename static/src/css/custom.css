@@ -423,6 +423,7 @@ background-image:url("../img/background/vehicle.jpeg") ;
     padding-top: 4%;
     height: 500px;
     background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(100,100,100,0.3);
 }
 .search-container .nav-tabs>li.active>a {
     border-top: 1px solid #bc162c;
